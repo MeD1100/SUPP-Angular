@@ -1,5 +1,7 @@
 # SUPP-AngularFront
 
+PS: Check master branch for content.
+
 This repository is dedicated to the frontend part of the SUPP - Social User Profiling Plateform.
 
 This application is created to predict the content of an arabic social media post that a user provides via a URL input in frontend. A backend prebuilt NLP model called AraBERT is used to make this happen. ( check my other repository to access this code )
